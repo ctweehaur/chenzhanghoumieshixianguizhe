@@ -1,4 +1,4 @@
-const lessonTitle = "陈章侯性诞僻";
+const lessonTitle = "《陈章侯蔑视显贵者》";
 
 const lessonData = [
     // ===== 第1段 =====
@@ -98,7 +98,10 @@ const lessonData = [
     ["\n", "", "", ""], // 👈 出处
 
     ["（", "", "", "", ""],
-    ["陈章侯", "chén zhāng hóu", "Chen Zhanghou", "Chen Zhanghou", "陈章侯"],
+    ["周亮工", "zhōu liàng gōng", "Zhou Lianggong", "Zhou Lianggong", "周亮工"],
+    ["《", "", "", "", ""],
+    ["读画录", "dú huà lù", "Record of Reading Paintings", "Rekod Membaca Lukisan", "读画录"],
+    ["》", "", "", "", ""],
     ["，", "", "", "", ""],
     ["有", "yǒu", "with", "ada", "有"],
     ["改动", "gǎi dòng", "adaptations", "ubah suai", "改动"],
