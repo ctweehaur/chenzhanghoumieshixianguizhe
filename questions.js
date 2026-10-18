@@ -129,7 +129,6 @@ const quizDataList = [
 
 // ===== 主观题 =====
 const subjectiveDataList = [
-[
     {
         id: 1,
         question: "陈章侯对‘贫士’和‘豪贵’的态度有何不同？请结合文章内容简要概括。",
